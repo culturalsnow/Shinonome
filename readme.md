@@ -1,7 +1,7 @@
 Shinonome
 ===
 
-![Shinonome](hhttps://raw.githubusercontent.com/culturalsnow/Shinonome/master/img/layout.jpg)
+![Shinonome](https://raw.githubusercontent.com/culturalsnow/Shinonome/master/img/layout.jpg)
 
 38-key columnar stagger keyboard inspired by the Mitosis, Chimera Ergo, Corne and Comet46.
 
