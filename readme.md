@@ -5,7 +5,7 @@ Shinonome
 
 38-key columnar stagger keyboard inspired by the Mitosis, Chimera Ergo, Corne and Comet46.
 
-Keyboard Maintainer: [Cultural Snow](https://github.com/culturalsnow/) [@SA_EndlessGame](https://twitter.com/SA_EndlessGame)  
+Keyboard Maintainer: [Cultural Snow](https://github.com/culturalsnow/) / [twitter: @SA_EndlessGame](https://twitter.com/SA_EndlessGame)  
 Hardware Supported: Shinonome PCB  
 Hardware Availability: (https://twitter.com/SA_EndlessGame)
 
