@@ -96,14 +96,8 @@ Wire Wire Line
 	9600 4600 9900 4600
 Wire Wire Line
 	9900 4600 9900 4550
-Wire Wire Line
-	9600 4700 9900 4700
-Wire Wire Line
-	9900 4700 9900 4750
-Text GLabel 10100 4650 2    50   Input ~ 0
+Text GLabel 10100 4700 2    50   Input ~ 0
 data
-Wire Wire Line
-	9600 4650 10100 4650
 Wire Wire Line
 	8850 1500 8550 1500
 Wire Wire Line
@@ -856,4 +850,10 @@ Wire Wire Line
 Connection ~ 8550 3200
 Wire Wire Line
 	8550 3200 8550 3250
+Wire Wire Line
+	9600 4650 9900 4650
+Wire Wire Line
+	9900 4650 9900 4750
+Wire Wire Line
+	9600 4700 10100 4700
 $EndSCHEMATC
