@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Shinonome)(type KiCad)(uri ${KIPRJMOD}/Shinonome.pretty)(options "")(descr ""))
+)
